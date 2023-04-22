@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Example","order":1,"path":"folders/Example.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"fnt_main","order":2,"path":"fonts/fnt_main/fnt_main.yy",},
+    {"name":"spr_example","order":3,"path":"sprites/spr_example/spr_example.yy",},
+    {"name":"spr_example2","order":4,"path":"sprites/spr_example2/spr_example2.yy",},
+    {"name":"rm_example","order":1,"path":"rooms/rm_example/rm_example.yy",},
+  ],
+}
